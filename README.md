@@ -1,8 +1,7 @@
 # Godot-Low-Poly
 Provides a simple low-poly shader for zylann's terrain plugin
 
-![screenshot (49)](screenshot (49).png)
-Format: ![Alt Text](url)
+![Screenshot](/screenshot (49).png)
 
 **How it works**
 This shader modifies the standard shader's normal generation, meaning the normals will make the face look like low poly.

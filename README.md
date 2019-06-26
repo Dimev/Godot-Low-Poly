@@ -12,6 +12,7 @@ This shader works with zylann's terrain plugin:
 https://github.com/Zylann/godot_heightmap_plugin
 
 **How to use:**
-This assumes you have the terrain plugin installed and active
+This assumes you have the terrain plugin installed and active.
+
 First, download the low_poly.shader file and add it to your project.
-To use it, add a terrain node, set shader type to custom and select low_poly.shader (after adding it to your project).
+To use it, add a terrain node, set shader type to custom and select low_poly.shader under custom shader (after adding it to your project).

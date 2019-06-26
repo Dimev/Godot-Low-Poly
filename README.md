@@ -1,7 +1,7 @@
 # Godot-Low-Poly
 Provides a simple low-poly shader for zylann's terrain plugin
 
-![Screenshot](screenshot (49).png)
+![screenshot (49)](screenshot (49).png)
 Format: ![Alt Text](url)
 
 **How it works**
